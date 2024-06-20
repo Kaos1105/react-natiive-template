@@ -1,0 +1,25 @@
+{
+    "index": {
+        "indexTitle": "パレット管理",
+        "temporaryRegis": "仮登録",
+        "soundnessUpdate": "健全度更新",
+        "sortingAuto": "並べ替え(自動)",
+        "onLine": "ONLINE",
+        "offLine": "OFFLINE",
+        "overall": "全体図",
+        "oreDischargeTop": "排鉱側",
+        "oreDischargeBottom": "給鉱側",
+        "autoSortMessages": "選択中のパレ台ット {{ length }} について、自動並べ替え処理を開始しますか",
+        "temporaryRegisMessages": "並び順を仮登録しますか",
+        "autoSortEmptyPallet": "並べ替え対象のパレットが選択されていないため、自動並べ替え処理を実行できません。",
+        "messagesConfirmCancelSortAuto": "自動並べ替え処理実行前のパレットの並び順に戻します。自動並べ替え処理を中断しますか？はい。いいえ。",
+        "updateSuccess": "処理が完了しました。",
+        "fullOnlinePallet": "最大パレット台数を超える台数をONLINEエリアに移動できません。",
+        "cancelAutoSortSuccess": "自動並べ替え処理を中断しました。処理実行前のパレットの並び順に戻しました。"
+    },
+    "operatingInspection": {
+        "indexTitle": "操業点検一覧",
+        "leftLocation": "排鉱南の穴あき状態を選択",
+        "rightLocation": "排鉱北の穴あき状態を選択"
+    }
+}

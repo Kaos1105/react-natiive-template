@@ -1,0 +1,26 @@
+{
+    "indexTitle": "パレット情報一覧",
+    "importTitle": "パレット情報取込",
+    "editTitle": "パレット情報編集",
+    "showTitle": "パレット情報詳細",
+    "index": {
+        "search": {
+            "palletNumber": "パレット番号",
+            "bringingYear": "導入年",
+            "bringingMonth": "導入月"
+        },
+        "table": {
+            "no": "No",
+            "size": "サイズ",
+            "bringInDate": "導入日",
+            "removalDate": "撤去日",
+            "importDate": "取込日",
+            "displayOtherNumber": "表示順番号",
+            "statisticClassification": "集計区分",
+            "useClassification": "使用区分",
+            "remark": "備考",
+            "palletNumber": "パレット番号",
+            "factory": "工場"
+        }
+    }
+}

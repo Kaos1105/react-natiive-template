@@ -1,0 +1,96 @@
+export const USE_FLG = {
+    NOT_USE: 1,
+    IN_USE: 2
+    // DEV: 3
+};
+
+export const STATISTIC_FLG = {
+    NOT_STATISTIC: 1,
+    IN_STATISTIC: 2
+    // DEV: 3
+};
+
+export const REPAIR_CLASSIFICATION = {
+    REGULAR_REPAIR: 0,
+    MAJOR_REPAIR: 1,
+    UNPLANNED_REPAIR: 2,
+    OTHER: 9
+};
+
+export const REPAIR_DETAIL = {
+    OVERLAY: 1,
+    OVERHAUL: 2,
+    UNDERCARRIAGE: 3,
+    SIDEWALL: 4,
+    MANAGEMENT: 5
+};
+
+export const MANAGEMENT_INFORMATION = {
+    NOTING: 0,
+    MANAGEMENT_INFORMATION_1: 1,
+    MANAGEMENT_INFORMATION_2: 2,
+    MANAGEMENT_INFORMATION_3: 3,
+    MANAGEMENT_INFORMATION_4: 4,
+    MANAGEMENT_INFORMATION_5: 5,
+    MANAGEMENT_INFORMATION_6: 6,
+    MANAGEMENT_INFORMATION_7: 7,
+    MANAGEMENT_INFORMATION_8: 8
+};
+
+export const DISPLAY_ODER = {
+    PALLET_NUMBER: 'palletCode',
+    SORTING_ODER: 'sortOrder'
+};
+
+export const LINE_CLASSIFICATION = {
+    OFFLINE: 0,
+    ONLINE: 1
+};
+
+export const UNEVENNESS_INFO_MEASUREMENT_PART = {
+    ORE_SUPPLY_NORTH: 1,
+    ORE_SUPPLY_SOUTH: 2,
+    ORE_DISCHARGE_NORTH: 3,
+    ORE_DISCHARGE_SOUTH: 4
+};
+
+export const UNEVENNESS_INFO_MEASUREMENT_TIMING = {
+    BEFORE_REPAIR: 0,
+    AFTER_REPAIR: 1
+};
+
+export const DEFINE_COLOR_GAP_HOLE_PALLET = {
+    NONE: 0,
+    SMALL: 1,
+    MEDIUM: 2,
+    LARGE: 3,
+    EXTRA_LARGE: 4,
+    UNKNOWN: 99
+};
+export const PALLET_SORTING_SOUNDNESS_COLOR = {
+    DEFAULT_COLOR: '#FFF',
+    NORMAL_COLOR: '#00FFFF',
+    CAUTION_COLOR: '#FFE500',
+    ABNORMALITY_COLOR: '#BD0D0D',
+    UNKNOWN_COLOR: '#808080'
+};
+
+export const PALLET_SORTING_SOUNDNESS = {
+    NORMAL: 0,
+    CAUTION: 1,
+    ABNORMAL: 2,
+    UNKNOWN: 99
+};
+export const GAP_HOLE_CLASSIFICATION = {
+    NONE: 0,
+    SMALL: 1,
+    MEDIUM: 2,
+    LARGE: 3,
+    EXTRA_LARGE: 4,
+    OTHER: 99
+};
+
+export const HISTORY_TYPE = {
+    TEMPORARY: 0,
+    MAIN: 1
+};

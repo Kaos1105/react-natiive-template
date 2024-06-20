@@ -1,0 +1,25 @@
+{
+    "headerAdminIndex": "焼結パレット管理システム",
+    "title": "メイン",
+    "lastOperationDate": "最終稼働日",
+    "sortOder": "並び順",
+    "operationInformation": "操業情報",
+    "palletManagement": "パレット管理",
+    "analysisResult": "解析結果",
+    "operationCheck": "操業点検",
+    "repairHistory": "修理履歴",
+    "palletSortOrderOutput": "パレット並び順　出力",
+    "palletSortOrderConfirmed": "パレット並び順　確定",
+    "palletInformation": "パレット情報",
+    "featHoleInspection": "穴あき測定",
+    "featClearData": "データクリア",
+    "featPalletOrderDL": "Pallet並び順DL",
+    "featPalletHoleUL": "穴あき情報UL",
+    "north": "北",
+    "south": "南",
+    "success": {
+        "clearData": "データクリアをしました。",
+        "downloadPallet": "Pallet並び順をダウンロードしました。",
+        "uploadGapHole": "穴あき情報をアップロードしました。"
+    }
+}

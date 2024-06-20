@@ -1,0 +1,79 @@
+{
+    "USE_FLG": {
+        "NOT_USE": "使用しない",
+        "IN_USE": "使用する"
+    },
+    "STATISTIC_FLG": {
+        "NOT_STATISTIC": "集計しない",
+        "IN_STATISTIC": "集計対象とする"
+    },
+    "REPAIR_CLASSIFICATION": {
+        "REGULAR_REPAIR": "定修",
+        "MAJOR_REPAIR": "大修理",
+        "UNPLANNED_REPAIR": "計画外",
+        "OTHER": "その他"
+    },
+    "MANAGEMENT_INFORMATION": {
+        "NOTING": "無し",
+        "MANAGEMENT_INFORMATION_1": "要管理情報1",
+        "MANAGEMENT_INFORMATION_2": "要管理情報2",
+        "MANAGEMENT_INFORMATION_3": "要管理情報3",
+        "MANAGEMENT_INFORMATION_4": "要管理情報4",
+        "MANAGEMENT_INFORMATION_5": "要管理情報5",
+        "MANAGEMENT_INFORMATION_6": "要管理情報6",
+        "MANAGEMENT_INFORMATION_7": "要管理情報7",
+        "MANAGEMENT_INFORMATION_8": "要管理情報8"
+    },
+
+    "REPAIR_DETAIL": {
+        "OVERLAY": "肉盛り修理",
+        "OVERHAUL": "ＯＨ修理",
+        "UNDERCARRIAGE": "足廻り修理",
+        "SIDEWALL": "ＳＷ修理",
+        "MANAGEMENT": "汎用管理"
+    },
+    "DISPLAY_ODER": {
+        "PALLET_NUMBER": "パレット番号",
+        "SORTING_ODER": "並び順"
+    },
+    "LINE_CLASSIFICATION": {
+        "OFFLINE": "オフライン",
+        "ONLINE": "オンライン"
+    },
+    "UNEVENNESS_INFO_MEASUREMENT_TIMING": {
+        "BEFORE_REPAIR": "補修前",
+        "AFTER_REPAIR": "補修後"
+    },
+    "UNEVENNESS_INFO_MEASUREMENT_PART": {
+        "ORE_SUPPLY_NORTH": "給鉱北",
+        "ORE_SUPPLY_SOUTH": "給鉱南",
+        "ORE_DISCHARGE_NORTH": "排鉱北",
+        "ORE_DISCHARGE_SOUTH": "排鉱南"
+    },
+    "DEFINE_COLOR_GAP_HOLE_PALLET": {
+        "NONE": "なし ",
+        "SMALL": "小",
+        "MEDIUM": "中",
+        "LARGE": "大",
+        "EXTRA_LARGE": "特大"
+    },
+    "PALLET_SORTING_SOUNDNESS": {
+        "NORMAL": "正常",
+        "CAUTION": "注意",
+        "ABNORMALITY": "異常",
+        "UNKNOWN": "不明"
+    },
+    "GAP_HOLE_CLASSIFICATION": {
+        "NONE": "無",
+        "SMALL": "小",
+        "MEDIUM": "中",
+        "LARGE": "大",
+        "EXTRA_LARGE": "特大",
+        "OTHER": "その他"
+    },
+
+    "HISTORY_TYPE": {
+        "TEMPORARY": "仮確定",
+        "MAIN": "確定"
+    }
+}

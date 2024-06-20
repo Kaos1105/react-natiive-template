@@ -1,0 +1,29 @@
+{
+    "index": {
+        "title": "覧画面共通",
+        "search": {
+            "useClassification": "Use Classification",
+            "statisticClassification": "Statistic Classification",
+            "labelRadio": "表示順",
+            "optionRadioValue1": "パレット番号",
+            "optionRadioValue2": "並び順"
+        },
+        "table": {
+            "no": "No",
+            "code": "Code",
+            "name": "Name",
+            "operationStartDate": "Operation Start Date",
+            "useClassification": "Use Classification",
+            "statisticClassification": "Statistic Classification"
+        }
+    },
+    "form": {
+        "name": "Name",
+        "title": "Title",
+        "operationStartDate": "Start Date",
+        "operationEndDate": "End Date",
+        "operationPeriod": "Period",
+        "useClassification": "Use Classification",
+        "statisticClassification": "Statistic Classification"
+    }
+}

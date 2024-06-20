@@ -1,0 +1,40 @@
+{
+    "indexTitle": "修理履歴一覧",
+    "showTitle": "修理情報",
+    "editTitle": "修理履歴修正",
+    "createTitle": " 修理履歴新規登録",
+    "search": {
+        "displayOther": "表示順",
+        "palletNumber": "パレット番号",
+        "sortingOrder": "並び順",
+        "displayTarget": "表示対象",
+        "repairDetails": "修理明細",
+        "periodExtractionYear": "期間抽出 年",
+        "periodExtractionMonth": "期間抽出 月"
+    },
+
+    "form": {
+        "repairInformation": "修理情報",
+        "repairClassification": "修理区分",
+        "repairRemark": "備考",
+        "remarks": "備考",
+        "palletInformation": "パレット情報",
+        "palletNumber": "パレット番号",
+        "operationStatus": "稼働状況",
+        "sorting": "並び順",
+        "transportLastDateTime": "最終搬入日時",
+        "cumulativeOperatingTime": "累積稼働時間",
+        "overlayRepair": "肉盛り修理",
+        "repairDate": "実施日",
+        "overhaulRepair": "ＯＨ修理",
+        "undercarriageRepair": "足廻り修理",
+        "sidewallRepair": "ＳＷ修理",
+        "generalManagement": "汎用管理",
+        "infoClassification": "情報区分"
+    },
+    "index": {
+        "repair": "修理",
+        "implementationDate": "実施日",
+        "remark": "備考"
+    }
+}

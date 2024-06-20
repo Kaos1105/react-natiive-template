@@ -1,0 +1,33 @@
+{
+    "titleIndex": "操業一覧",
+    "titleImport": "操業情報取込",
+    "index": {
+        "operationYear": "操業年",
+        "operationMonth": "操業月",
+        "year": "年",
+        "month": "月",
+        "table": {
+            "no": "No",
+            "DLNO": "DLNO",
+            "yearMonthDate": "日毎年月日",
+            "workTime": "稼動時間",
+            "stopNumbers": "停止回数",
+            "stopStart": "停止 - 起動",
+            "importedDate": "取込日"
+        }
+    },
+    "import": {
+        "excel": "Excel",
+        "totalErrorRecords": "Excel 総レコード数",
+        "import": "取込",
+        "totalExcelRecords": "レコード数",
+        "dBImported": "DB取込済",
+        "totalImportedRecords": "レコード数",
+        "error": "エラー",
+        "totalOperatingInfos": "レコード数",
+        "errorRecordMessages": "エラーが発生しました。CSVファイルをご確認ください",
+        "confirmImport": "この情報を取り込んでもよろしいでしょうか？",
+        "chooseFile": "ファイル選択",
+        "noFileChoose": "ファイルが選択されていません"
+    }
+}

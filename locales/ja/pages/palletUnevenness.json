@@ -1,0 +1,57 @@
+{
+    "indexTitle": "パレット凹凸一覧",
+    "importTitle": "パレット凹凸取込",
+    "showTitle": "パレット凹凸表示",
+    "editTitle": "パレット凹凸修正",
+    "index": {
+        "search": {
+            "measuringYear": "測定年",
+            "measuringMonth": "測定月"
+        },
+        "table": {
+            "no": "No.",
+            "palletNumber": "パレット番号",
+            "measuringDate": "測定日",
+            "measuringTiming": "測定タイミング",
+            "measuringPart": "測定箇所",
+            "unevennessAverageValue": "凹凸平均値",
+            "unevennessMaximumValue": "凹凸最大値",
+            "oreDischargeNorth": "排鉱北",
+            "oreDischargeSouth": "排鉱南",
+            "oreSupplyNorth": "給鉱北",
+            "oreSupplySouth": "給鉱南",
+            "factory": "工場名称",
+            "comment": "コメント",
+            "measurementTiming": "測定タイミング",
+            "averageValue": "平均",
+            "maximumValue": "最大",
+            "managementNumber": "管理番号",
+            "errorItem": "エラー項目",
+            "settingValue": "設定値",
+            "errorContents": "エラー内容"
+        }
+    },
+    "import": {
+        "folderSelection": "フォルダ選択",
+        "pallet": "パレット",
+        "numberOfUnits": "台数",
+        "units": "台",
+        "totalNumberRecords": "総レコード数",
+        "importCompleted": "取込完了",
+        "recordNumber": "レコード数",
+        "exclusionFromImport": "取込除外",
+        "error": "エラー"
+    },
+    "show": {
+        "basicInformation": "基本情報",
+        "swUnevenness": "ＳＷ凹凸",
+        "A-H": "A-H",
+        "swUnevennessDetails": "ＳＷ凹凸詳細",
+        "block": "ブロック",
+        "averageValue": "平均値",
+        "maximumValue": "最大値",
+        "colorMap": "カラーマップ",
+        "image": "写真",
+        "soundnessTarget": "健全度対象"
+    }
+}
